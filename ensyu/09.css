@@ -10,7 +10,7 @@ h1{
 div p{
     background-color: #eee;
 }
-h1.a{
+h1,a{
     color: #f00;
 }
 li#colorRed{
